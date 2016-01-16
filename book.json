@@ -1,0 +1,11 @@
+{
+  "language": "fr",
+  "structure": {
+    "readme": "INTRODUCTION.md",
+    "summary" : "SOMMAIRE.md"
+  },
+  "styles": {
+    "website": "styles/website.css",
+    "ebook": "styles/website.css"
+  }
+}
