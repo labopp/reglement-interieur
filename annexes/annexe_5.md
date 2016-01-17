@@ -1,6 +1,4 @@
-# ANNEXE N°5
-
-Proposition de règlement intérieur de l'Assemblée Générale et du Conseil d'Unité - Lille1
+# Annexe 5 : Proposition de règlement intérieur de l'Assemblée Générale et du Conseil d'Unité - Lille 1
 
 ## Article 1
 

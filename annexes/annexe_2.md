@@ -1,6 +1,6 @@
-# ANNEXE N°2 : AMENAGEMENT D'HORAIRES 
+# Annexe 2 : Amenagement d'horaires
 
-[ A compléter par chaque tutelle]
+`[A compléter par chaque tutelle]`
 
 Lille1, pour les personnels BIATSS 
 
